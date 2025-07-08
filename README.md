@@ -239,25 +239,6 @@ Include IP addresses, interface names (em0 = WAN, em1 = LAN), and VM names in yo
 
 ---
 
-## Showcasing Your Lab
-
-- **Create a project page** on your website with:
-    - Objective and summary
-    - Technologies used
-    - Network diagram
-    - Screenshots (pfSense dashboard, AD Users & Computers, Nmap scan, Event Viewer, Suricata/Wazuh alerts)
-    - Key scenarios and what you learned
-    - Challenges and how you solved them
-- **Add to your resume:**
-    ```
-    Virtual Enterprise Security Lab | [portfolio link]
-    - Designed and deployed a virtual enterprise network using VirtualBox, pfSense, and Windows Server 2025.
-    - Configured Active Directory, firewall, and SIEM; simulated attacks and analyzed detection.
-    - Documented architecture, setup, and scenarios on portfolio.
-    ```
-
----
-
 ## References & Further Reading
 
 - [VirtualBox Documentation](https://www.virtualbox.org/manual/)
