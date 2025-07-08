@@ -249,6 +249,30 @@ Include IP addresses, interface names (em0 = WAN, em1 = LAN), and VM names in yo
 
 ---
 
-## Screenshots & Diagram
+## Screenshots
 
-*Add screenshots of your actual setup, dashboards, and scans here!* 
+Below are screenshots from the actual homelab environment, demonstrating setup and usage of the various components:
+
+### VirtualBox Manager
+![VirtualBox Manager](screenshots/virtualboxmenu.png)
+*All VMs running in VirtualBox.*
+
+### pfSense Web UI
+![pfSense Dashboard](screenshots/pfSense.png)
+*pfSense firewall/router dashboard.*
+
+### Windows Server Desktop
+![Windows Server](screenshots/windows.png)
+*Windows Server 2025 desktop environment.*
+
+### Server Manager & Active Directory
+![Server Manager](screenshots/servermanager.png)
+*Server Manager with Active Directory tools.*
+
+### Kali Linux Terminal
+![Kali Linux](screenshots/kali.png)
+*Kali Linux running security tools.*
+
+### Metasploit Exploit Example
+![Metasploit](screenshots/metaspl.png)
+*Metasploit running an exploit against Metasploitable2.* 
