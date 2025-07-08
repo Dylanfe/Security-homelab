@@ -41,8 +41,6 @@ Design and deploy a virtual enterprise network environment to gain hands-on expe
 
 **Diagram:**
 
-You can create a diagram using [diagrams.net](https://diagrams.net/) or similar tools. Here’s a textual representation:
-
 ```
 [Internet]
     |
