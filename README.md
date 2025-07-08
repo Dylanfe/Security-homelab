@@ -92,7 +92,7 @@ Include IP addresses, interface names (em0 = WAN, em1 = LAN), and VM names in yo
     - Architecture: AMD64
     - Installer: DVD Image (ISO) Installer
     - Extract the `.iso` from the `.gz` file using 7-Zip.
-- **Windows Server 2025:** [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/)
+- **Windows Server 2025 (GUI version not CLI):** [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/)
     - Download the 180-day evaluation ISO.
 - **Kali Linux:** [Kali Linux Downloads](https://www.kali.org/get-kali/)
     - Use the pre-built `.ova` for VirtualBox for easiest setup.
